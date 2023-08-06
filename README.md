@@ -29,7 +29,7 @@ In this graph, cities are clustered based on population and marketing spending. 
 - What is the relationship between population, marketing spending, and revenue?
 
 ## Dashboard Preview
-![Overall Dashboard](limg/dash.png)
+![Overall Dashboard](img/dash.png)
 
 **Access the Live Dashboard: [WeWashUSleep Tableau Dashboard](https://public.tableau.com/views/sales_data_analysis_for_startup/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
 
