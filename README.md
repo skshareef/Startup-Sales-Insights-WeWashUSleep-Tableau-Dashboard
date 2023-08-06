@@ -59,6 +59,4 @@ Utilizing clustering and regression techniques produced insightful visualization
 
 This repository showcases a Tableau dashboard analyzing WeWashUSleep's sales data, providing valuable insights for the company's growth strategy. Overcoming data challenges and employing advanced analytics techniques underscores the commitment to delivering actionable information for informed decision-making.
 
-For detailed project documentation, including data sources and Tableau workbook, please refer to [Project Documentation](link_to_documentation).
 
-For any inquiries or feedback, please contact [Your Name](link_to_contact).
