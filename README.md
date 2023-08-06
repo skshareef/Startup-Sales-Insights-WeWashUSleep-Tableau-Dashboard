@@ -5,7 +5,7 @@ This repository contains a Tableau dashboard analyzing the sales data for WeWash
 ## Dashboard Overview
 
 ### Sales Performance by Region
-![Sales Performance by Region](link_to_image_1)
+![Sales Performance by Region](img/p1.png)
 This graph illustrates the performance comparison between two sales regions within the USA. It highlights how each region is performing based on marketing spending, assisting the CEO in determining which region to prioritize.
 
 **Key Questions:**
@@ -13,7 +13,7 @@ This graph illustrates the performance comparison between two sales regions with
 - Which region is more successful in converting marketing spending into revenue?
 
 ### Revenue Comparison - Old vs. New Cities
-![Revenue Comparison - Old vs. New Cities](link_to_image_2)
+![Revenue Comparison - Old vs. New Cities](img/p2.png)
 This visualization showcases the revenue generated from 140 established locations compared to the 10 recently opened cities. It provides insights into the effectiveness of the expansion strategy.
 
 **Key Questions:**
@@ -21,7 +21,7 @@ This visualization showcases the revenue generated from 140 established location
 - Is the expansion strategy yielding the desired results in terms of revenue?
 
 ### Cluster Analysis and Regression
-![Cluster Analysis and Regression](link_to_image_3)
+![Cluster Analysis and Regression](img/p3.png)
 In this graph, cities are clustered based on population and marketing spending. A regression line indicates the relationship between these factors and revenue, aiding investment decisions.
 
 **Key Questions:**
@@ -29,9 +29,9 @@ In this graph, cities are clustered based on population and marketing spending. 
 - What is the relationship between population, marketing spending, and revenue?
 
 ## Dashboard Preview
-![Overall Dashboard](link_to_dashboard_image)
+![Overall Dashboard](limg/dash.png)
 
-**Access the Live Dashboard: [WeWashUSleep Tableau Dashboard](link_to_dashboard)**
+**Access the Live Dashboard: [WeWashUSleep Tableau Dashboard](https://public.tableau.com/views/sales_data_analysis_for_startup/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
 
 ## Challenges Faced
 
