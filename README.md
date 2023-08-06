@@ -22,6 +22,8 @@ This visualization showcases the revenue generated from 140 established location
 
 ### Cluster Analysis and Regression
 ![Cluster Analysis and Regression](img/p3.png)
+
+
 In this graph, cities are clustered based on population and marketing spending. A regression line indicates the relationship between these factors and revenue, aiding investment decisions.
 
 **Key Questions:**
