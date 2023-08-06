@@ -28,13 +28,18 @@ In this graph, cities are clustered based on population and marketing spending. 
 - How do different clusters of cities perform in terms of revenue generation?
 - What is the relationship between population, marketing spending, and revenue?
 
+## Dashboard Preview
+![Overall Dashboard](link_to_dashboard_image)
+
+**Access the Live Dashboard: [WeWashUSleep Tableau Dashboard](link_to_dashboard)**
+
 ## Challenges Faced
 
 ### Data Quality and Consistency
 Addressing data quality issues was essential, involving data cleaning and standardization to ensure accurate analysis.
 
 ### Data Aggregation and Transformation
-Aggregating and transforming data from diverse sources facilitated meaningful insights into sales performance.
+Aggregating and transforming data from diverse sources, including the use of Tableau's built-in relations, facilitated meaningful insights into sales performance. The startup sales data was joined with population data of the USA to gain comprehensive insights.
 
 ### Cluster Analysis and Interpretation
 Creating meaningful clusters required thoughtful consideration of variables and their significance, followed by careful interpretation.
@@ -49,9 +54,6 @@ A comprehensive data cleaning process was executed to ensure consistent and high
 
 ### Advanced Analytics and Visualizations
 Utilizing clustering and regression techniques produced insightful visualizations that guided decision-making.
-
-### Collaborative Approach
-Engaging with domain experts and stakeholders ensured alignment between analysis, visualizations, and business strategy.
 
 ## Conclusion
 
